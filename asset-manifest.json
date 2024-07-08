@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gcdorm.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/gcdorm.github.io/static/js/main.8f7c8c3d.js",
+    "static/js/453.00527d42.chunk.js": "/gcdorm.github.io/static/js/453.00527d42.chunk.js",
+    "index.html": "/gcdorm.github.io/index.html",
+    "main.e6c13ad2.css.map": "/gcdorm.github.io/static/css/main.e6c13ad2.css.map",
+    "main.8f7c8c3d.js.map": "/gcdorm.github.io/static/js/main.8f7c8c3d.js.map",
+    "453.00527d42.chunk.js.map": "/gcdorm.github.io/static/js/453.00527d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f7c8c3d.js"
+  ]
+}
